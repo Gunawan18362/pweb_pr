@@ -55,7 +55,6 @@ class PageController extends Controller
         $profile = [
             'nama' => $username,
             'email' => strtolower($username).'@gmail.com',
-            'role' => $username === 'guest' ? 'Tamu' : 'Pengguna',
         ];
 
         return view('profile', compact('profile'));
