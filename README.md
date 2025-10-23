@@ -15,6 +15,7 @@ Pengembangan website ini memiliki beberapa tujuan utama:
 
 
 Fitur Utama
+
 1.Halaman Login (akses sebagai user atau otomatis sebagai `guest` jika kosong)  
 2.Dashboard berisi ringkasan toko  
 3.Halaman Pengelolaan Produk (dummy data)  
